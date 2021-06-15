@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ab82e5-b704-4ff5-b93f-9b1e2e285c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__3_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LinkedList/LinkedList.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LinkedList/src/Main.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +27,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../To_Be_Discard" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LinkedList/src" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Osehiase Ehilen\Desktop\AlgorithmAndDataStructureIInKotlin\LinkedList\src" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -54,22 +55,38 @@
       <option name="project" value="LOCAL" />
       <updated>1623659366557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="node class added">
+      <created>1623744018230</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623744018230</updated>
+    </task>
+    <task id="LOCAL-00003" summary="linkedlist class added">
+      <created>1623744072003</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1623744072003</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="linkedlist folder added" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedlist folder added" />
+    <MESSAGE value="node class added" />
+    <MESSAGE value="linkedlist class added" />
+    <option name="LAST_COMMIT_MESSAGE" value="linkedlist class added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1623743941567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623743941567" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1623744016755">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1623744071080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623744016755" />
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623744071080" />
     <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1623743291392">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
