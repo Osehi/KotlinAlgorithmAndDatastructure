@@ -2,7 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ab82e5-b704-4ff5-b93f-9b1e2e285c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LinkedList/src/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Holiday/Holiday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Holiday/src/Holiday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Holiday/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/PhoneCreation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/src/CellPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/src/LandPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/src/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PhoneCreation/src/SmartPhone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/RealJavaProgramming.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/src/systeminteraction/Start.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/src/whatisaclass/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/src/whatisaclass/Decadev.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/src/whatisaclass/Fruit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RealJavaProgramming/src/whatisaclass/LearnClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandAbstract/UnderstandAbstract.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandAbstract/src/BoardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandAbstract/src/Checkers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandInterface/UnderstandInterface.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandInterface/src/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UnderstandInterface/src/Electronic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +36,24 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+    <projectState path="$PROJECT_DIR$/JavaProgrammingSquadEight">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -28,6 +69,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LinkedList/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
@@ -36,6 +80,70 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Osehiase Ehilen\Desktop\AlgorithmAndDataStructureIInKotlin\LinkedList\src" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Car" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whatisaclass.Car" />
+      <module name="RealJavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whatisaclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Fruit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="whatisaclass.Fruit" />
+      <module name="RealJavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whatisaclass.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="PhoneCreation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Holiday" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="systeminteraction.Start" />
+      <module name="RealJavaProgramming" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="systeminteraction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Start" />
+        <item itemvalue="Application.Car" />
+        <item itemvalue="Application.Fruit" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,31 +177,63 @@
       <option name="project" value="LOCAL" />
       <updated>1623744072003</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="main function added">
+      <created>1623744231141</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1623744231141</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="linkedlist folder added" />
     <MESSAGE value="node class added" />
     <MESSAGE value="linkedlist class added" />
-    <option name="LAST_COMMIT_MESSAGE" value="linkedlist class added" />
+    <MESSAGE value="main function added" />
+    <option name="LAST_COMMIT_MESSAGE" value="main function added" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1624481792804">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624481792804" />
+    <state x="958" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1624618228425">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="958" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1624618228425" />
     <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1623743941567">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623743941567" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1623744071080">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1623744230206">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623744071080" />
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1623743291392">
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1623744230206" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1624621718638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1623743291392" />
-    <state x="360" y="0" key="new project wizard" timestamp="1623659335920">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624621718638" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1624621718638">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="360" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1623659335920" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624621718638" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1624621718638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624621718638" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1624621718638">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624621718638" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1624597156080">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1624597156080" />
+    <state x="360" y="0" key="new project wizard" timestamp="1624620774359">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="360" y="0" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1624620774359" />
   </component>
 </project>
