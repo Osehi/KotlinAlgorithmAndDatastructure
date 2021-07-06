@@ -2,12 +2,22 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" filepath="$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingInJava/ExceptionHandlingInJava.iml" filepath="$PROJECT_DIR$/ExceptionHandlingInJava/ExceptionHandlingInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Holiday/Holiday.iml" filepath="$PROJECT_DIR$/Holiday/Holiday.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" filepath="$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MethodOverloadingJava/MethodOverloadingJava.iml" filepath="$PROJECT_DIR$/MethodOverloadingJava/MethodOverloadingJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoneCreation/PhoneCreation.iml" filepath="$PROJECT_DIR$/PhoneCreation/PhoneCreation.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealJavaProgramming/RealJavaProgramming.iml" filepath="$PROJECT_DIR$/RealJavaProgramming/RealJavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StandardJavaClass/StandardJavaClass.iml" filepath="$PROJECT_DIR$/StandardJavaClass/StandardJavaClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" filepath="$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnderstandAbstract/UnderstandAbstract.iml" filepath="$PROJECT_DIR$/UnderstandAbstract/UnderstandAbstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnderstandInterface/UnderstandInterface.iml" filepath="$PROJECT_DIR$/UnderstandInterface/UnderstandInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UnderstandingReferenceType/UnderstandingReferenceType.iml" filepath="$PROJECT_DIR$/UnderstandingReferenceType/UnderstandingReferenceType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseAbstractClass/UseAbstractClass.iml" filepath="$PROJECT_DIR$/UseAbstractClass/UseAbstractClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UseOfInterface/UseOfInterface.iml" filepath="$PROJECT_DIR$/UseOfInterface/UseOfInterface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WeekOnePart1/WeekOnePart1.iml" filepath="$PROJECT_DIR$/WeekOnePart1/WeekOnePart1.iml" />
     </modules>
   </component>
 </project>

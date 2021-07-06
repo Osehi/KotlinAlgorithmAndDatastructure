@@ -19,7 +19,7 @@ public class Holiday {
 
     // method inSameMonth; I had to make it static and it worked
     // I was able to access my months, two different months
-    // the getter was a safer
+    // the getter was a saver
     public static Boolean inSameMonth(String month1, String month2){
         if (month1 == month2){
             return true;
