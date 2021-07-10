@@ -2,49 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ab82e5-b704-4ff5-b93f-9b1e2e285c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__4_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__5_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__6_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__7_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__8_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassAlgorithmExerceise/src/MondayTwentyEightJune.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingInJava/ExceptionHandlingInJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ExceptionHandlingInJava/src/JavaExceptionExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinJavaOperability/src/operabilitykotlinjava/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinJavaOperability/src/operabilitykotlinjava/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinJavaOperability/src/operabilitykotlinjava/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodOverloadingJava/MethodOverloadingJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodOverloadingJava/src/AnotherMultiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MethodOverloadingJava/src/Multiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StandardJavaClass/StandardJavaClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StandardJavaClass/src/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/LearnClassInKotlin/DemoPerson.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/LearnClassInKotlin/LearnClassInKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/array/CheckArrayAndList.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/array/IntroToArray.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/loops/ForLoop.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/loops/ForLoopChallenge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/loops/Loops.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/loops/WhileLoopChallenge.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/teachinclass/WhatIsAClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnderstandingReferenceType/UnderstandingReferenceType.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UnderstandingReferenceType/src/trial/TrialOnTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseAbstractClass/UseAbstractClass.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseAbstractClass/src/usingabstractconcept/Person.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseAbstractClass/src/usingabstractconcept/Teacher.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseOfInterface/UseOfInterface.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseOfInterface/src/startusinginterface/SimpleClassImpl.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UseOfInterface/src/startusinginterface/SimpleInterface.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOnePart1/WeekOnePart1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOnePart1/src/partonemonday/DataTypes.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOnePart1/src/partonemonday/TeachClass.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WeekOnePart1/src/partonemonday/TypeCheckAndCast.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TeachingKotlin/src/LearnClassInKotlin/PersonTest.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Holiday/src/Holiday.java" beforeDir="false" afterPath="$PROJECT_DIR$/Holiday/src/Holiday.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TeachingKotlin/src/LearnClassInKotlin/DemoPerson.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TeachingKotlin/src/LearnClassInKotlin/DemoPerson.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +35,7 @@
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -88,43 +50,74 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/LinkedList/src" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="LearnClassInKotlin" />
+    </key>
     <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Osehiase Ehilen\Desktop\AlgorithmAndDataStructureIInKotlin\LinkedList\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.TeachClassKt">
-    <configuration name="CheckArrayAndListKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PersonTest.drives">
+    <configuration name="PersonTest.drives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TeachingKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearnClassInKotlin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LearnClassInKotlin" />
+      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.PersonTest" />
+      <option name="METHOD_NAME" value="drives" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonTest.getFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TeachingKotlin" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="LearnClassInKotlin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="LearnClassInKotlin" />
+      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.PersonTest" />
+      <option name="METHOD_NAME" value="getFirstName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoPersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="TeachingKotlin" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="array.CheckArrayAndListKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="WeekOnePart1" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="partonemonday.DataTypesKt" />
+      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.DemoPersonKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -138,19 +131,6 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="partonemonday.TeachClassKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TrialOnTypesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="UnderstandingReferenceType" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="trial.TrialOnTypesKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -171,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonTest.drives" />
+        <item itemvalue="Kotlin.DemoPersonKt" />
+        <item itemvalue="JUnit.PersonTest.getFirstName" />
         <item itemvalue="Kotlin.TeachClassKt" />
         <item itemvalue="Kotlin.TypeCheckAndCastKt" />
-        <item itemvalue="Kotlin.DataTypesKt" />
-        <item itemvalue="Kotlin.TrialOnTypesKt" />
-        <item itemvalue="Kotlin.CheckArrayAndListKt" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1624621755452</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="class demo">
+      <created>1625566795553</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625566795553</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -234,13 +221,18 @@
     <MESSAGE value="linkedlist class added" />
     <MESSAGE value="main function added" />
     <MESSAGE value="learning from squad 8 edo" />
-    <option name="LAST_COMMIT_MESSAGE" value="learning from squad 8 edo" />
+    <MESSAGE value="class demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="class demo" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Project_Structure" timestamp="1624481792804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624481792804" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625594225176">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1625594225176" />
     <state x="958" y="115" key="#com.intellij.ide.util.MemberChooser" timestamp="1625556128970">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -249,33 +241,41 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623743941567" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1624621751905">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1625566788712">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624621751905" />
-    <state width="935" height="192" key="GridCell.Tab.0.bottom" timestamp="1625561807004">
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1625566788712" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1625634662182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625561807004" />
-    <state width="935" height="192" key="GridCell.Tab.0.center" timestamp="1625561807004">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1625634662182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625561807004" />
-    <state width="935" height="192" key="GridCell.Tab.0.left" timestamp="1625561807004">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1625634662182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625561807004" />
-    <state width="935" height="192" key="GridCell.Tab.0.right" timestamp="1625561807004">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1625634662182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="935" height="192" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625561807004" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
     <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1625454819228">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1625454819228" />
+    <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1625592581960">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1625592581960" />
     <state x="492" y="0" width="827" height="824" key="new project wizard" timestamp="1625454893821">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="492" y="0" width="827" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1625454893821" />
+    <state x="771" y="110" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1625592555480">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="771" y="110" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog/0.0.1536.824@0.0.1536.824" timestamp="1625592555480" />
   </component>
 </project>

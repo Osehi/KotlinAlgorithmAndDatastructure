@@ -18,29 +18,29 @@ open class Person(
         return firstName
     }
 
-    open fun drives(){
-        println("I drive to office")
+    open fun drives():String{
+        return ("I drive to office")
     }
 
 }
 
 class Student(firstName: String, lastName: String, age: Int, var idNo:String): Person(firstName, lastName, age) {
 
-    override fun drives() {
+    override fun drives(): String {
 //        super.drives()   // this means an instance of the parent class calling the method in the parent class.
-        println("I drive to school")
+        return ("I drive to school")
     }
 
 }
 
 fun main(){
     val onePerson = Person("Kola", "Ibrahim", 21)
-//    println(onePerson.drives())
+    println(onePerson.drives())
 //    println(onePerson.getFirstName())
 //    onePerson.drives()
 
     // create an instance of student
     val firstStudent = Student("Osehi", "Ehilen", 23, "001")
-    firstStudent.drives()
-    println(firstStudent.getFirstName())
+//    firstStudent.drives()
+//    println(firstStudent.getFirstName())
 }
