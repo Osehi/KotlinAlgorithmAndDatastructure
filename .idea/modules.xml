@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" filepath="$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ClassUseConcept/ClassUseConcept.iml" filepath="$PROJECT_DIR$/ClassUseConcept/ClassUseConcept.iml" />
       <module fileurl="file://$PROJECT_DIR$/ExceptionHandlingInJava/ExceptionHandlingInJava.iml" filepath="$PROJECT_DIR$/ExceptionHandlingInJava/ExceptionHandlingInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/Holiday/Holiday.iml" filepath="$PROJECT_DIR$/Holiday/Holiday.iml" />
       <module fileurl="file://$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" filepath="$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" />
@@ -11,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/MethodOverloadingJava/MethodOverloadingJava.iml" filepath="$PROJECT_DIR$/MethodOverloadingJava/MethodOverloadingJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/PhoneCreation/PhoneCreation.iml" filepath="$PROJECT_DIR$/PhoneCreation/PhoneCreation.iml" />
       <module fileurl="file://$PROJECT_DIR$/RealJavaProgramming/RealJavaProgramming.iml" filepath="$PROJECT_DIR$/RealJavaProgramming/RealJavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SquadTenPlayGround/SquadTenPlayGround.iml" filepath="$PROJECT_DIR$/SquadTenPlayGround/SquadTenPlayGround.iml" />
       <module fileurl="file://$PROJECT_DIR$/StandardJavaClass/StandardJavaClass.iml" filepath="$PROJECT_DIR$/StandardJavaClass/StandardJavaClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" filepath="$PROJECT_DIR$/TeachingKotlin/TeachingKotlin.iml" />
       <module fileurl="file://$PROJECT_DIR$/UnderstandAbstract/UnderstandAbstract.iml" filepath="$PROJECT_DIR$/UnderstandAbstract/UnderstandAbstract.iml" />
@@ -19,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/UseAbstractClass/UseAbstractClass.iml" filepath="$PROJECT_DIR$/UseAbstractClass/UseAbstractClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/UseOfInterface/UseOfInterface.iml" filepath="$PROJECT_DIR$/UseOfInterface/UseOfInterface.iml" />
       <module fileurl="file://$PROJECT_DIR$/WeekOnePart1/WeekOnePart1.iml" filepath="$PROJECT_DIR$/WeekOnePart1/WeekOnePart1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WhiteBoardingSquasEight/WhiteBoardingSquasEight.iml" filepath="$PROJECT_DIR$/WhiteBoardingSquasEight/WhiteBoardingSquasEight.iml" />
     </modules>
   </component>
 </project>

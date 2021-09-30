@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ab82e5-b704-4ff5-b93f-9b1e2e285c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__9_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnAlgorithmFromAbdulBari/LearnAlgorithmFromAbdulBari.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnAlgorithmFromAbdulBari/src/whatisalgorithm/WhatIsAlgorithm.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__10_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__11_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassAlgorithmExerceise/src/exerciseseptweek2/Tueday.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassAlgorithmExerceise/src/exerciseseptweek2/TuesdayExercise.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassUseConcept/ClassUseConcept.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassUseConcept/src/Dependency Injection.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClassUseConcept/src/howclasseswork/KclassConstruct.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MethodOverloadingJava/src/algorithmpractice/AlgorithmPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/DefineKotlin.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WeekOnePart1/src/kclasses/CreateAnAlgorithm.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhiteBoardingSquasEight/WhiteBoardingSquasEight.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhiteBoardingSquasEight/src/weekfive/Ransome.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WhiteBoardingSquasEight/src/weektwo/SeatchGivenElement.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ClassAlgorithmExerceise/ClassAlgorithmExerceise.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" beforeDir="false" afterPath="$PROJECT_DIR$/KotlinJavaOperability/KotlinJavaOperability.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,10 +44,10 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Kotlin Interface" />
         <option value="Kotlin Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -78,73 +90,67 @@
       <recent name="C:\Users\Osehiase Ehilen\Desktop\AlgorithmAndDataStructureIInKotlin\LinkedList\src" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonTest.drives">
-    <configuration name="PersonTest.drives" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeachingKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LearnClassInKotlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LearnClassInKotlin" />
-      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.PersonTest" />
-      <option name="METHOD_NAME" value="drives" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PersonTest.getFirstName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="TeachingKotlin" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="LearnClassInKotlin.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="LearnClassInKotlin" />
-      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.PersonTest" />
-      <option name="METHOD_NAME" value="getFirstName" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DemoPersonKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="TeachingKotlin" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="LearnClassInKotlin.DemoPersonKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TeachClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Kotlin.TuesdayExerciseKt">
+    <configuration name="CreateAnAlgorithmKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="WeekOnePart1" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="partonemonday.TeachClassKt" />
+      <option name="MAIN_CLASS_NAME" value="kclasses.CreateAnAlgorithmKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TypeCheckAndCastKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="WeekOnePart1" />
+    <configuration name="KclassConstructKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ClassUseConcept" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="partonemonday.TypeCheckAndCastKt" />
+      <option name="MAIN_CLASS_NAME" value="howclasseswork.KclassConstructKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RansomeKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="WhiteBoardingSquasEight" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="weekfive.RansomeKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuedayKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ClassAlgorithmExerceise" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exerciseseptweek2.TuedayKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuesdayExerciseKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="ClassAlgorithmExerceise" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="exerciseseptweek2.TuesdayExerciseKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PersonTest.drives" />
-        <item itemvalue="Kotlin.DemoPersonKt" />
-        <item itemvalue="JUnit.PersonTest.getFirstName" />
-        <item itemvalue="Kotlin.TeachClassKt" />
-        <item itemvalue="Kotlin.TypeCheckAndCastKt" />
+        <item itemvalue="Kotlin.TuesdayExerciseKt" />
+        <item itemvalue="Kotlin.TuedayKt" />
+        <item itemvalue="Kotlin.KclassConstructKt" />
+        <item itemvalue="Kotlin.RansomeKt" />
+        <item itemvalue="Kotlin.CreateAnAlgorithmKt" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +226,14 @@
       <option name="project" value="LOCAL" />
       <updated>1625899688887</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="how to analyze algorithm">
+      <created>1626006106881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626006106881</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -231,13 +244,14 @@
     <MESSAGE value="learning from squad 8 edo" />
     <MESSAGE value="class demo" />
     <MESSAGE value="new update" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update" />
+    <MESSAGE value="how to analyze algorithm" />
+    <option name="LAST_COMMIT_MESSAGE" value="how to analyze algorithm" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="70" key="#Project_Structure" timestamp="1624481792804">
+    <state x="361" y="70" key="#Project_Structure" timestamp="1628082888512">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1624481792804" />
+    <state x="361" y="70" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1628082888512" />
     <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625594225176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -246,42 +260,38 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="958" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1625556128970" />
-    <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog" timestamp="1623743941567">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1626006103575">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="932" y="0" key="#org.jetbrains.kotlin.idea.refactoring.move.moveDeclarations.ui.MoveKotlinTopLevelDeclarationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1623743941567" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1625899685655">
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1626006103575" />
+    <state width="725" height="191" key="GridCell.Tab.0.bottom" timestamp="1632950035465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1625899685655" />
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1625634662182">
+    <state width="725" height="191" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1632950035465" />
+    <state width="725" height="191" key="GridCell.Tab.0.center" timestamp="1632950035465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
-    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1625634662182">
+    <state width="725" height="191" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1632950035465" />
+    <state width="725" height="191" key="GridCell.Tab.0.left" timestamp="1632950035464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
-    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1625634662182">
+    <state width="725" height="191" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1632950035464" />
+    <state width="725" height="191" key="GridCell.Tab.0.right" timestamp="1632950035465">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
-    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1625634662182">
+    <state width="725" height="191" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1632950035465" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1632992789303">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1625634662182" />
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1625999961840">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1625999961840" />
+    <state x="444" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1632992789303" />
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1625592581960">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1625592581960" />
-    <state x="492" y="0" width="827" height="824" key="new project wizard" timestamp="1625899730773">
+    <state x="492" y="0" width="827" height="824" key="new project wizard" timestamp="1632994998786">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="492" y="0" width="827" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1625899730773" />
+    <state x="492" y="0" width="827" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1632994998786" />
     <state x="771" y="110" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1625592555480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
