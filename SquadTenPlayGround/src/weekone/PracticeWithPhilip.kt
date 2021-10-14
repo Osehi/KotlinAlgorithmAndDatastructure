@@ -20,10 +20,18 @@ package weekone
  * 7. Logical and comparison operator
  * 8. If conditions
  * 9. Nullable
+ * 10. Array
+ * 11. When
+ * 12. function
+ * 13. vararg, default and named parameters
+ * 14. Extention Function
  */
 /**
  * A. Identify a real life situation and use code to program it.
  * e.g a school.
+ */
+/**
+ * compile the exercises
  */
 fun main(){
 //    makingString()
@@ -34,7 +42,25 @@ fun main(){
 //    exerciseTwo()
 //    ifCondition()
 //    checkIsAPalindrome()
-    urAge()
+//    urAge()
+//    count()
+//    exerciseOnPower()
+//    getMaxItem()
+//    arrayList()
+//    addToList()
+//    pickNumbers()
+//    println(evaluateExponent(2, 3))
+//    sumOfNNumber(5)
+//    var list = listOf<Int>(1,2,3)
+//    println(list[2])
+//        var result = findANumber(listOf(1,15,35,70), 35)
+//        println(result)
+//    collectNumber(9,8,7,6,5,4,3,2,1)
+//    appendName("Osehiase")
+//    appendName("Osehiase", "Blessings")
+    val input = 49
+    val result = input.isPrime()
+    println(result)
 }
 
 /**
@@ -161,6 +187,196 @@ fun urAge(){
         in 36..45 -> println("You are a matured adult")
     }
 }
+// array & loops
+fun useArrayLoop(){
+    val myArray = arrayOf("Hello", "Guys", "")
+}
+
+fun count(){
+    var num = 10
+    // count from 10 to 0
+    while (num >= 0){
+        println(num)
+        num--
+    }
+}
+
+// exercise
+fun exerciseOnPower(){
+    val callForFirstInput = "Enter number 1:"
+    val firstNumber = readLine()?.toInt()
+    val callForSecondInput = "Enter number 2:"
+    val secondNumber = readLine()?.toInt()
+    if (firstNumber != null && secondNumber != null){
+        val compute = Math.pow(firstNumber.toDouble(), secondNumber.toDouble())
+        println("${firstNumber} to the power of ${secondNumber} is ${compute}")
+    }
+
+
+}
+
+// array, find the item with the highest value
+// without sorting
+fun getMaxItem(){
+    val myArray = arrayOf(4,5,6,10,2,3)
+    var max = myArray[0]
+    for (item in myArray){
+        if (item > max){
+            max = item
+        }
+    }
+    println(max)
+}
+
+// difference between array and list
+fun arrayList(){
+    val array = arrayOf(1,2,3)
+    val list = listOf(4,5,6)
+    // extract items
+//    val itemAtIndexZero = array[0]
+    // ** an item in an array can be changed
+    array[0] = 7
+    val itemAtIndexZero = array[0]
+    println(itemAtIndexZero)
+    // ** Adding to an array
+    // => You cannot add to an array. i.e, cannot increase the size of an array
+    // ==> What can be done in a list
+    val firstItemInList = list[0]
+    println(firstItemInList)
+    // change item in a list
+//    list[0] = 3: cannot change the item in a list
+}
+
+// using the console to add items to a list
+// Anothe exercise for loop; is to calculate the
+// 1st n fibonacci numbers.
+fun addToList(){
+    val list = mutableListOf<Int>()
+    for (i in 1..10){
+        val x = readLine()?.toInt()
+        // do a null check because my input is a nullable variable
+        if (x != null ){ // I don't want to add any null item
+            list.add(x)
+        }
+    }
+    println(list)
+}
+// exerciseOnList
+// write a code to receive 5 number from the console
+fun pickNumbers(){
+    // store the inputs here
+    val storage = mutableListOf<Int>()
+    // use a loop to set a limit for 5-inputs
+    for (i in 1..5){
+        val userInput = readLine()?.toInt()
+        if(userInput != null){
+            storage.add(userInput)
+        }
+    }
+    println(storage.reversed())
+    // Task_2: ask a user to add 5-numbers
+    // print the average of those numbers
+}
+// exercise on when
+// Write a program to ask a user his/her country
+// of origin...
+// And greet him the way they greet in his country.
+//
+fun locationAndGreet(){
+
+}
+// another when assignment is calculate the 1st n fibonacci number: Part-15.
+// use of when
+fun knowUrAge(){
+
+    val age = 12
+    when(age){
+        in 0..5 -> println("You are a young kid")
+        in 6..17 -> println("You are a teenager")
+        18 -> println("Finally, you are 18")
+        19, 20 -> println("You are a young adult")
+        in 21..65 -> println("You are an adult")
+        else -> println("You are really old")
+    }
+}
+
+// function
+// create a function that evaluates the exponent of a number
+fun evaluateExponent(base:Int, exponent:Int):Int{
+    var result = 1
+    for (i in 1..exponent){
+        result = base * result
+    }
+    return result
+}
+// the assignment
+// write a function that takes an n number; return the
+// sum from 1 to n.
+fun sumOfNNumber(n:Int){
+    var sum = 0
+    for (i in 1..n){
+        sum += i
+    }
+    println(sum)
+}
+// still on functions: Functions with Return Value
+// parameters ( primitive data type parameter and non-primitive data type) such as string, Int,
+// list.
+// exercise on function:
+// search for a number in the list.
+// if found return a msg - the index of the number is ---
+// if not found return: - the index of the number is -1
+
+fun findANumber(list:List<Int>, target:Int):String {
+    // use a forloop to search
+
+    for (index in 0 until list.size){
+        if (list[index] == target){
+            return "The imdex of the ${target} is ${list.indexOf(list[index])}"
+        }
+    }
+    return "The index of the ${target} is -1"
+}
+
+// use of vararg,
+fun collectNumber(vararg num :Int){
+    for (item in num){
+        println(item)
+    }
+}
+// use of named parameter and default parameter
+fun appendName(firstName:String, lastName:String = "Ehilen"){
+    println("My name is ${firstName} ${lastName}")
+}
+// Assignment on named and default function
+// create a function called an alternating function
+// an alternating function adds the 1st, substrats the 2nd number
+// Part-18
+fun alternatingSum(vararg nums:Int){
+    // I will do it.
+}
+// extension function example
+// am adding an extension function to the Int-class.
+// this function has an issue; it says 49 is a prime number
+// that is not true.
+// I will check it later...
+fun Int.isPrime(): Boolean {
+    for (i in 2 until this - 1){ // this is used for the class where the function is attached
+        if (this % 2 == 0){
+            return false
+        }
+    }
+    return true
+}
+
+// assignment
+// write an extension for a given list that returns the PRODUCT
+// of that list.
+// For example: The product of [1,2,3,4,5,6] is 720
+fun product(){
+    
+}
+
 
 fun miscellaneous(){
     var isAvailable:Boolean = false

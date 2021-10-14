@@ -2,15 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3ab82e5-b704-4ff5-b93f-9b1e2e285c5f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime__12_.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/SquadTenPlayGround.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/freestyle/ClassListNodePlayGround.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/freestyle/ClassPlayGround.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/freestyle/LongestNonRepeatingString.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/PracticeWithPhilip.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StandardJavaClass/src/TestConcept.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/PracticeWithPhilipClass.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/Rectangle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/DefineKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/DefineKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquadTenPlayGround/src/freestyle/LongestNonRepeatingString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/freestyle/LongestNonRepeatingString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/PracticeWithPhilip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/SquadTenPlayGround/src/weekone/PracticeWithPhilip.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,10 +33,10 @@
       <list>
         <option value="Interface" />
         <option value="Kotlin Interface" />
-        <option value="Kotlin Class" />
         <option value="JUnit4 Test Class" />
         <option value="Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -82,7 +78,7 @@
       <recent name="C:\Users\Osehiase Ehilen\Desktop\AlgorithmAndDataStructureIInKotlin\LinkedList\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PracticeWithPhilipKt">
+  <component name="RunManager" selected="Kotlin.PracticeWithPhilipClassKt">
     <configuration name="ClassListNodePlayGroundKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="SquadTenPlayGround" />
       <option name="VM_PARAMETERS" />
@@ -109,19 +105,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DefineKotlinKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <module name="SquadTenPlayGround" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" value="weekone.DefineKotlinKt" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LongestNonRepeatingStringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <module name="SquadTenPlayGround" />
       <option name="VM_PARAMETERS" />
@@ -130,6 +113,19 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PASS_PARENT_ENVS" value="true" />
       <option name="MAIN_CLASS_NAME" value="freestyle.LongestNonRepeatingStringKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeWithPhilipClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="SquadTenPlayGround" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="weekone.PracticeWithPhilipClassKt" />
       <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -150,11 +146,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PracticeWithPhilipClassKt" />
         <item itemvalue="Kotlin.PracticeWithPhilipKt" />
         <item itemvalue="Kotlin.LongestNonRepeatingStringKt" />
         <item itemvalue="Kotlin.ClassListNodePlayGroundKt" />
         <item itemvalue="Kotlin.ClassPlayGroundKt" />
-        <item itemvalue="Kotlin.DefineKotlinKt" />
       </list>
     </recent_temporary>
   </component>
@@ -232,7 +228,14 @@
       <option name="project" value="LOCAL" />
       <updated>1632995106932</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="squad ten data types">
+      <created>1634065180164</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1634065180164</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,7 +248,8 @@
     <MESSAGE value="new update" />
     <MESSAGE value="how to analyze algorithm" />
     <MESSAGE value="squad ten begins" />
-    <option name="LAST_COMMIT_MESSAGE" value="squad ten begins" />
+    <MESSAGE value="squad ten data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="squad ten data types" />
   </component>
   <component name="WindowStateProjectService">
     <state x="361" y="70" key="#Project_Structure" timestamp="1633331310053">
@@ -260,42 +264,42 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="958" y="115" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1625556128970" />
-    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1632995103796">
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1634065175543">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1632995103796" />
-    <state width="811" height="188" key="GridCell.Tab.0.bottom" timestamp="1634064964020">
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1634065175543" />
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom" timestamp="1634202708182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="811" height="188" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634064964020" />
-    <state width="811" height="188" key="GridCell.Tab.0.center" timestamp="1634064964020">
+    <state width="1493" height="185" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634202708182" />
+    <state width="1493" height="185" key="GridCell.Tab.0.center" timestamp="1634202708182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="811" height="188" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1634064964020" />
-    <state width="811" height="188" key="GridCell.Tab.0.left" timestamp="1634064964020">
+    <state width="1493" height="185" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1634202708182" />
+    <state width="1493" height="185" key="GridCell.Tab.0.left" timestamp="1634202708181">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="811" height="188" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1634064964020" />
-    <state width="811" height="188" key="GridCell.Tab.0.right" timestamp="1634064964020">
+    <state width="1493" height="185" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1634202708181" />
+    <state width="1493" height="185" key="GridCell.Tab.0.right" timestamp="1634202708182">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="811" height="188" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1634064964020" />
-    <state width="797" height="236" key="GridCell.Tab.1.bottom" timestamp="1634054732996">
+    <state width="1493" height="185" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1634202708182" />
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom" timestamp="1634196470080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="797" height="236" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634054732996" />
-    <state width="797" height="236" key="GridCell.Tab.1.center" timestamp="1634054732996">
+    <state width="1493" height="240" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1634196470080" />
+    <state width="1493" height="240" key="GridCell.Tab.1.center" timestamp="1634196470080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="797" height="236" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1634054732996" />
-    <state width="797" height="236" key="GridCell.Tab.1.left" timestamp="1634054732995">
+    <state width="1493" height="240" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1634196470080" />
+    <state width="1493" height="240" key="GridCell.Tab.1.left" timestamp="1634196470080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="797" height="236" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1634054732995" />
-    <state width="797" height="236" key="GridCell.Tab.1.right" timestamp="1634054732996">
+    <state width="1493" height="240" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1634196470080" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right" timestamp="1634196470080">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="797" height="236" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1634054732996" />
+    <state width="1493" height="240" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1634196470080" />
     <state x="444" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1634063463670">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -304,10 +308,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="300" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1536.824@0.0.1536.824" timestamp="1625592581960" />
-    <state x="492" y="0" width="827" height="824" key="new project wizard" timestamp="1632994998786">
+    <state x="492" y="0" width="827" height="824" key="new project wizard" timestamp="1634096840577">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="492" y="0" width="827" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1632994998786" />
+    <state x="492" y="0" width="827" height="824" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1634096840577" />
     <state x="771" y="110" key="org.jetbrains.kotlin.idea.testIntegration.KotlinCreateTestDialog" timestamp="1625592555480">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
